@@ -1,5 +1,5 @@
 {
   "scripts": {
-    "build": "node scripts/build-static.mjs && node scripts/patch-favicon.mjs && node scripts/patch-home-region-ui.mjs && node scripts/patch-home-info-content.mjs && node scripts/patch-home-hero-title.mjs && node scripts/patch-third-page-content.mjs && node scripts/patch-footer-random-links.mjs && node scripts/patch-unique-from-previous.mjs && node scripts/patch-seo-eeat.mjs"
+    "build": "node scripts/build-static.mjs && node scripts/patch-favicon.mjs && node scripts/patch-home-region-ui.mjs && node scripts/patch-home-info-content.mjs && node scripts/patch-home-hero-title.mjs && node scripts/patch-third-page-content.mjs && node scripts/patch-footer-random-links.mjs && node scripts/patch-unique-from-previous.mjs && node scripts/patch-seo-eeat.mjs && node scripts/patch-search-verification.mjs"
   }
 }
