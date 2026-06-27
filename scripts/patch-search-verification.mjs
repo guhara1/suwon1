@@ -3,7 +3,7 @@ import { join } from "node:path";
 
 const outDir = "out";
 const google = '<meta name="google-site-verification" content="MU_vE-O28ixg9Dcxc3NG_yDEMbtaCnBohs289fRl8P8">';
-const naver = '<meta name="naver-site-verification" content="537a1fa066ed34eec29ee5b969e97f4f8bc67874">';
+const naver = '<meta name="naver-site-verification" content="4a7f241ca2c4a3756fa788f8683ce25bdf353084">';
 
 function walk(dir) {
   return readdirSync(dir).flatMap((entry) => {

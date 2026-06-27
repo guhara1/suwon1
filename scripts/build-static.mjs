@@ -1,7 +1,7 @@
 ﻿import { mkdirSync, writeFileSync } from "node:fs";
 import { dirname, join } from "node:path";
 
-const siteUrl = process.env.SITE_URL || "https://homethaihub.netlify.app";
+const siteUrl = process.env.SITE_URL || "https://homethaihub1.netlify.app";
 const brand = "홈타이허브";
 const phone = "0508-202-4683";
 const tel = "tel:05082024683";
