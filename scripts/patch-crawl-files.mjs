@@ -2,7 +2,7 @@ import { readdirSync, statSync, writeFileSync } from "node:fs";
 import { join, relative } from "node:path";
 
 const outDir = "out";
-const siteUrl = "https://homethaihub.netlify.app";
+const siteUrl = "https://homethaihub1.netlify.app";
 const brand = "홈타이허브";
 const today = new Date().toISOString().slice(0, 10);
 
